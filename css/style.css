@@ -1,0 +1,37 @@
+@import url(https://fonts.googleapis.com/css?family=Sofia)
+nav a {color:black}
+.skip{
+  position: relative;
+  left: -2000px;}
+
+.skip:focus{
+  left:10px;
+  border: 1px solid black;}
+
+
+
+a.current{font-weight: bolder}
+a.current{background-color: yellow}
+
+</style>
+<link href='https://fonts.googleapis.com/css?family=Sofia' rel='stylesheet'>
+<style>
+body {
+    font-family: 'Sofia';font-size: 22px;
+}
+body{color:black}
+h1{color:black}
+h1{font-family: 'Sofia';font-size: 40px;}
+h2{font-family: 'Sofia';font-size: 40px;}
+h3{font-family: 'Sofia';font-size: 40px;}
+h4{font-family: 'Sofia';font-size: 40px;}
+h5{font-family: 'Sofia';font-size: 40px;}
+p{font-family: 'Sofia';font-size: 22px}
+ul{font-family: 'Sofia';font-size: 22px;}
+
+</style>
+a:link{color:blue}
+a:visited{ color:slategray}
+a:hover{}
+a:focus{}
+a:active{}
